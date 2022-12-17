@@ -7,3 +7,5 @@ class EmailService {
       return result;
     }
   }
+
+  export default EmailService;

@@ -8,3 +8,5 @@ class CloudEmailAdapter implements EmailProvider {
       return result;
     }
   }
+
+  export default CloudEmailAdapter;
